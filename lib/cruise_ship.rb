@@ -11,3 +11,4 @@ def select_winner(passengers)
     if key == suite_a: && val[0] == "a"
       return val
 end
+end
