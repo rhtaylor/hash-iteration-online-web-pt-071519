@@ -12,3 +12,4 @@ def select_winner(passengers)
       return val
 end
 end
+end
